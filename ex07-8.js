@@ -1,5 +1,5 @@
 function nazo(){
-if(document.getElementByld('answer').value='夢'){
+if(document.getElementById('ans').value=='夢'){
 alert('あたり!');
 }else{
 alert('はずれ!')
