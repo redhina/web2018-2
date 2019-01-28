@@ -1,19 +1,20 @@
 function sayhello68() {
-  alert('Hello, ' + document.getElementById('who68').innerHTML + '!');
-}
-function taro68() {
-  document.getElementById('who68').innerHTML = '小野大輔';
-}
-<img src="./image/小野大輔.jpg">
-
-function hanako68() {
-  document.getElementById('who68').innerHTML = '鈴村健一';
+  alert(document.getElementById('who68').innerHTML + '!');
 }
 
-function hanako68() {
-  document.getElementById('who68').innerHTML = '森久保祥太郎';
+function BB68() {
+  document.getElementById('who68').innerHTML = 'Busters Bros';
 }
 
-function hanako68() {
-  document.getElementById('who68').innerHTML = '寺島拓篤';
+
+function MTC68() {
+  document.getElementById('who68').innerHTML = 'MAD TRIGGER CREW';
+}
+
+function FP68() {
+  document.getElementById('who68').innerHTML = 'Fling Posse';
+}
+
+function matennrou68() {
+  document.getElementById('who68').innerHTML = '摩天狼';
 }
